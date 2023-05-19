@@ -8,6 +8,8 @@ Responsive Design: Ensure your interface is responsive and works well across dif
 
 Minimalism and Simplicity: Keep the interface simple and avoid clutter. Use white space effectively, reduce visual noise, and prioritize essential elements. Simplify complex tasks by breaking them down into smaller, manageable steps.
 
+Improve Readability and Scannability: Make your content easily scannable by using headings, subheadings, bullet points, and short paragraphs. Use a legible font, appropriate font size, and sufficient contrast between text and background. Break up content into digestible chunks to enhance readability and encourage users to stay on your site.
+
 Clear Typography: Use legible fonts and appropriate font sizes for easy readability. Differentiate headings, subheadings, and body text. Ensure there is sufficient contrast between text and background colors.
 
 Consistent and Intuitive Icons: Implement icons that are widely recognized and have clear meanings. Maintain consistency in the use of icons throughout the interface, ensuring they are intuitive and easily understood by users.
